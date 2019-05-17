@@ -1,6 +1,3 @@
-#valor = input("Login: \n")
-#senha = input("Senha: \n")
-#print(" Bem vindo {}, sua senha é {}".format(valor,senha))
 print("*******************************")
 print("***** JOGO DA ADIVINHAÇÃO *****")
 print("*******************************")
