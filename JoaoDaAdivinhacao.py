@@ -10,9 +10,6 @@ print("2) Médio")
 print("3) Dífcil")
 nivel = int(input("Escolha um nível de dificuldade: "))
 
-if(nivel != 1 or nivel != 2 or nivel != 3):
-    print("Informe somente uma das opções do menu")
-
 if(nivel == 1):
   total_de_tentativas = 20  
 elif(nivel == 2):
